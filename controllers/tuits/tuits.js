@@ -6,8 +6,10 @@ export default [
     handle: "@spacex",
     time: "2h",
     image: "spacex.jpg",
-    title: "SpaceX's Mission",
-    tuit: "You want to wake up in the morning and think the future is going to be great - and that’s what being a spacefaring civilization is all about. It’s about believing in the future and thinking that the future will be better than the past. And I can’t think of anything more exciting than going out there and being among the stars",
+    title:
+      "Tesla Cybertruck lands on Mars and picks up the Curiosity rover on its 6' bed",
+    tuit:
+      "You want to wake up in the morning and think the future is going to be great - and that’s what being a spacefaring civilization is all about. It’s about believing in the future and thinking that the future will be better than the past. And I can’t think of anything more exciting than going out there and being among the stars",
     liked: true,
     likes: 2345,
     disliked: false,
@@ -17,14 +19,15 @@ export default [
   },
   {
     _id: "234",
-    topic: "Traffic",
-    userName: "The Boring Company",
-    handle: "@boringcompany",
+    topic: "Energy",
+    userName: "Tesla",
+    handle: "@tesla",
     time: "2h",
-    image: "nasa.jpg",
+    image: "tesla_2.jpg",
     title:
-      "100s of SpaceX Starships land on Mars after a 6 month journey. 1000s of Martian colonists being building Mars Base 1",
-    tuit: "The Boring Company (TBC) is an American infrastructure and tunnel construction services company founded by Elon Musk. Its ongoing and proposed projects are designed for intra-city ('loop') transit systems.",
+      "Tesla FSD finally makes driving obsolete. After years of delay, Tesla Full Self Driving can drive you to work while you work, play, or sleep",
+    tuit:
+      "Autopilot is an advanced driver assistance system that assists your car with steering, accelerating and braking for other vehicles and pedestrians within its lane. It assists with the most burdensome parts of driving and work alongside features like emergency breaking, collision warning.",
     liked: true,
     likes: 2345,
     disliked: false,
