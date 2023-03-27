@@ -19,6 +19,24 @@ export default [
   },
   {
     _id: "234",
+    topic: "Space",
+    userName: "SpaceX",
+    handle: "@spacex",
+    time: "2h",
+    image: "spacex.jpg",
+    title:
+    "100s of SpaceX Starships land on Mars after a 6 month journey. 1000s of Martian colonists being building Mars Base 1",
+    tuit:
+    "Tesla Cybertruck lands on Mars and picks up the Curiosity rover on its 6' bed. Cybertruck is built with an exterior shell made for ultimate durability and passenger protection. Starting with a nearly impenetrable exoskeleton, every component is designed for superior strength and endurance, from Ultra-Hard 30X Cold-Rolled stainless-steel structural skin to Tesla armor glass.Cybertruck is built with an exterior shell made for ultimate durability and passenger protection.",
+    liked: true,
+    likes: 2345,
+    disliked: false,
+    dislikes: 123,
+    replies: 123,
+    retuits: 432,
+  },
+  {
+    _id: "345",
     topic: "Energy",
     userName: "Tesla",
     handle: "@tesla",
